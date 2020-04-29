@@ -1,2 +1,3 @@
-# Springer-Free-Textbooks
-Download springer textbooks released for free during the 2020 COVID-19
+# Python script to download Springer free textbooks
+
+Download springer textbooks released for free during the COVID-19 quarantine
